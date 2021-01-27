@@ -1,6 +1,4 @@
 public class HelloTest {
-
-    //testing my awesome hello
-    //EMREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+//HELLO EVERYONE
 
 }
