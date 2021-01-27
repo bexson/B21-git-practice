@@ -4,6 +4,8 @@ public class HelloTest {
     //EMREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
     public static void main(String[] args) {
         //I HAVE MY MAIN METHOD ON MY MASTER BRANCH
+        // ADDED SOME LINES FOR CLASS
+        //HEY <><>><><<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
     }
 
 }
